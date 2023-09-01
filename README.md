@@ -3,6 +3,8 @@ The goal of this project is to create a REST API responsible for exposing “the
 
 ![Capture37](https://github.com/lacegiovanni17/Air_Quality_NodeJS/assets/30509335/5326f288-ae7d-4a05-94a5-557686242d66)
 
+![Capture38](https://github.com/lacegiovanni17/Air_Quality_NodeJS/assets/30509335/f0a51dd2-9188-4428-9380-08ef6f37c99b)
+
 ### [Live Site]()
 
 
